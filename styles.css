@@ -1,10 +1,10 @@
 :root {
     --branco-principal: #a59c9c;
-    --cinza-secundario: #2fb9cb;
+    --cinza-secundario: #ffffff;
     --botao-azul: #051a34;
-    --cor-de-fundo: #edf0f8;
+    --cor-de-fundo: #050505;
     --fonte-principal: 'Inter';
-    --botao-azul-efeito: #78147a;
+    --botao-azul-efeito: #1f07fd;
 }
 
 body {
@@ -136,7 +136,8 @@ body {
 }
 
 .rodape__texto {
-    margin: 1em 0;
+    margin: 1em 0;<link rel="stylesheet" href="styles.css">
+    <lin
     color: var(--cinza-secundario);
     font-size: 14px;
 }
